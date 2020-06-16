@@ -1,0 +1,6 @@
+E:\4 Курс\R\Labochku\Prototype\Prototype\bin\Debug\Prototype.exe.config
+E:\4 Курс\R\Labochku\Prototype\Prototype\obj\Debug\Prototype.csprojResolveAssemblyReference.cache
+E:\4 Курс\R\Labochku\Prototype\Prototype\bin\Debug\Prototype.exe
+E:\4 Курс\R\Labochku\Prototype\Prototype\bin\Debug\Prototype.pdb
+E:\4 Курс\R\Labochku\Prototype\Prototype\obj\Debug\Prototype.exe
+E:\4 Курс\R\Labochku\Prototype\Prototype\obj\Debug\Prototype.pdb
